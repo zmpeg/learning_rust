@@ -1,3 +1,8 @@
+#[macro_use]
+extern crate log;
+
 fn main() {
-    println!("Hello, world!");
+  println!("Hello, world!");
+  info!("Program ran.");
+  warn!("Unable to do something");
 }
