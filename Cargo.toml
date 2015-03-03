@@ -1,0 +1,5 @@
+[package]
+
+name = "rust_hyper"
+version = "0.0.1"
+authors = ["zmpeg <zandstra.matt@gmail.com>"]
