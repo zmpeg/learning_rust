@@ -1,8 +1,8 @@
+extern crate fern;
 #[macro_use]
-extern crate log;
+extern crate fern_macros;
 
 fn main() {
   println!("Hello, world!");
   info!("Program ran.");
-  warn!("Unable to do something");
 }

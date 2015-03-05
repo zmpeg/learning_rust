@@ -5,4 +5,5 @@ version = "0.0.1"
 authors = ["zmpeg <zandstra.matt@gmail.com>"]
 
 [dependencies]
-log = "0.2.5"
+fern = "0.1.12"
+fern_macros = "0.1.6"
